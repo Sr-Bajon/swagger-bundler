@@ -1,0 +1,7 @@
+{
+  "swaggerFileSource": "./petstore-separate/spec/swagger.yaml",
+  "editorPathYaml": "./swagger-editor/spec-files/result.yaml",
+  "jsonResultPath": "./result.json",
+  "yamlResultPath": "./result.yaml",
+  "watchFolder": "petstore-separate"
+}
