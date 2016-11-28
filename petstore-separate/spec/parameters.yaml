@@ -1,7 +1,7 @@
 tagsParam:
   name: tags
   in: query
-  description: tags to filter by
+  description: tags to filter by cat
   required: false
   type: array
   collectionFormat: csv

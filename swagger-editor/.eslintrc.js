@@ -1,10 +1,13 @@
 module.exports = {
   extends: 'google',
-  quotes: [2, 'single'],
+  quotes : [2, 'single'],
   globals: {
     SwaggerEditor: false
   },
-  env: {
+  env    : {
     browser: true
+  },
+  rules  : {
+    "linebreak-style": 0
   }
 };

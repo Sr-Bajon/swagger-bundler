@@ -16,7 +16,6 @@ function separator() {
 }
 
 separator();
-// parseSpec();
 watch();
 
 function parseSpec() {
